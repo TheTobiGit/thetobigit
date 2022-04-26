@@ -31,6 +31,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -86,8 +87,12 @@
 <br/>  
 
 
+## Recent Blog Posts  
+  
 
-<br/>  <div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=4syvve26gekq255fjar7uh126&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=4syvve26gekq255fjar7uh126&cover_image=false&theme=default" /></div>    
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4syvve26gekq255fjar7uh126&cover_image=false&theme=default" /></div>  
 
 <br/>  
 
@@ -102,3 +107,4 @@
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
