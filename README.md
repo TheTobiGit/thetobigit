@@ -3,16 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tobi, a front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
-
-- 🔭 I’m currently working on [PentLib](https://pentlib.netlify.app)  
-  
-
-- 🌱 I’m currently learning CSS and JavaScript  
-  
-
-- ⚡ Fun fact: Im a beginner 😂  
+### <div align="center">I'm Tobi, a front-end freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 <br/>  
